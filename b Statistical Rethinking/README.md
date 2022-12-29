@@ -3,3 +3,5 @@ Code from the book<a href=https://xcelab.net/rm/statistical-rethinking/>Statisti
 
 The book uses R for its examples. These examples have been translated to python at the repository below.
 
+
+https://github.com/pymc-devs/pymc-resources/tree/main/Rethinking
