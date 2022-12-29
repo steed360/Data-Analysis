@@ -1,0 +1,21 @@
+name: stat-rethink2-pymc
+channels:
+- conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - seaborn
+  - mkl-service
+  - watermark
+  - pymc3
+  - arviz
+  - theano-pymc
+  - mkl
+  - mkl-service
+  - pip
+  - pip:
+    - daft
+    - causalgraphicalmodels
+     - watermark
+     - causalgraphicalmodels
+     - daft
